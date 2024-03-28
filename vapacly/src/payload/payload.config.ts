@@ -142,6 +142,7 @@ export default buildConfig({
       generateTitle,
       uploadsCollection: 'media',
     }),
+
     payloadCloud(),
   ],
 })
